@@ -1,1 +1,2 @@
 Linea 1 de Venus
+Linea 2 del colaborador de git2
